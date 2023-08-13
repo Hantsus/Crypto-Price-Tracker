@@ -5,4 +5,4 @@ You be able to search currencies and have it display on the browser. Also, the p
 [The API Link](https://www.coingecko.com/en/api).
 
 ## Demo
-![Cryptocurrency Finance Price Tracker App](public/img/demo.gif)
+
